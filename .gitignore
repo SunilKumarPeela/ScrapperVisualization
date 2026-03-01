@@ -1,0 +1,34 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Playwright browsers
+/ms-playwright/
+
+# Output data files (optional — remove these lines if you want to track outputs)
+jobright_jobs.xlsx
+branch_salary_dashboard_ready.xlsx
+branch_salary_dashboard_ready__seniority.xlsx
+jobs_raw.jsonl
+state.json
+container_dom_MERGED.html
+
+# DOM snapshots
+dom_snapshots/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
